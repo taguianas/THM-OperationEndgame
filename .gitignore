@@ -1,0 +1,14 @@
+# Sensitive files
+*.txt
+!screenshots/README.md
+asrep.txt
+kerberoast.txt
+jerri_hash.txt
+realusers.txt
+ldap.txt
+*_bloodhound.zip
+*.ccache
+
+# OS files
+.DS_Store
+Thumbs.db
