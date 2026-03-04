@@ -1,8 +1,9 @@
 # 🏴 TryHackMe: Operation Endgame
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/operationendgame.png" alt="Operation Endgame Badge" />
-</p>
+![Platform](https://img.shields.io/badge/Platform-TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Difficulty](https://img.shields.io/badge/Difficulty-Hard-critical?style=for-the-badge)
+![Category](https://img.shields.io/badge/Category-Active%20Directory-blue?style=for-the-badge)
+![Pwned](https://img.shields.io/badge/Status-Pwned-success?style=for-the-badge)
 
 | Field | Details |
 |-------|---------|
